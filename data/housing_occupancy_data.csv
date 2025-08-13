@@ -1,0 +1,296 @@
+year,territory,territory_order,territory_type,occupancy_status,num_housing_units
+1981,Barcelona,1,Municipality,Secondary,14399.0
+1981,Barcelona,1,Municipality,Other,0.0
+1981,Barcelona,1,Municipality,Main,579831.0
+1981,Barcelona,1,Municipality,Vacant,79276.0
+1991,Horta-Guinardó,7,District,Secondary,1899.0
+1991,Sant Andreu,9,District,Secondary,823.0
+1991,Gràcia,6,District,Secondary,1960.0
+1991,Sant Martí,10,District,Vacant,7465.0
+1991,Barcelona,1,Municipality,Secondary,21952.0
+1991,Nou Barris,8,District,Vacant,4515.0
+1991,Barcelona,1,Municipality,Vacant,69908.0
+1991,Sarrià-Sant Gervasi,5,District,Main,49429.0
+1991,Barcelona,1,Municipality,Main,576640.0
+1991,Les Corts,4,District,Other,99.0
+1991,Sants-Montjuïc,3,District,Main,65710.0
+1991,Gràcia,6,District,Main,47753.0
+1991,Sant Andreu,9,District,Main,48484.0
+1991,Sants-Montjuïc,3,District,Vacant,7750.0
+1991,Gràcia,6,District,Other,74.0
+1991,Eixample,2,District,Secondary,5073.0
+1991,Horta-Guinardó,7,District,Main,60868.0
+1991,Sant Martí,10,District,Secondary,1531.0
+1991,Sant Martí,10,District,Main,73003.0
+1991,Sarrià-Sant Gervasi,5,District,Secondary,4246.0
+1991,Horta-Guinardó,7,District,Other,63.0
+1991,Nou Barris,8,District,Main,62169.0
+1991,Nou Barris,8,District,Other,71.0
+1991,Nou Barris,8,District,Secondary,1173.0
+1991,Eixample,2,District,Vacant,12922.0
+1991,Les Corts,4,District,Main,30021.0
+1991,Sarrià-Sant Gervasi,5,District,Other,151.0
+1991,Sant Martí,10,District,Other,81.0
+1991,Eixample,2,District,Other,182.0
+1991,Sant Andreu,9,District,Other,38.0
+1991,Sants-Montjuïc,3,District,Other,66.0
+1991,Les Corts,4,District,Vacant,3378.0
+1991,Ciutat Vella,1,District,Vacant,11066.0
+1991,Sarrià-Sant Gervasi,5,District,Vacant,5974.0
+1991,Sants-Montjuïc,3,District,Secondary,1688.0
+1991,Ciutat Vella,1,District,Secondary,2442.0
+1991,Horta-Guinardó,7,District,Vacant,6132.0
+1991,Les Corts,4,District,Secondary,1117.0
+1991,Sant Andreu,9,District,Vacant,4469.0
+1991,Ciutat Vella,1,District,Other,134.0
+1991,Eixample,2,District,Main,103096.0
+1991,Gràcia,6,District,Vacant,6237.0
+1991,Ciutat Vella,1,District,Main,36107.0
+1991,Barcelona,1,Municipality,Other,959.0
+2001,Eixample,2,District,Main,103809.0
+2001,Gràcia,6,District,Other,588.0
+2001,Gràcia,6,District,Main,48113.0
+2001,Nou Barris,8,District,Main,62332.0
+2001,Horta-Guinardó,7,District,Vacant,10222.0
+2001,Barcelona,1,Municipality,Accommodation,1.0
+2001,Barcelona,1,Municipality,Secondary,57719.0
+2001,Sants-Montjuïc,3,District,Secondary,5527.0
+2001,Ciutat Vella,1,District,Main,36322.0
+2001,Les Corts,4,District,Secondary,5338.0
+2001,Sant Martí,10,District,Main,80413.0
+2001,Sant Martí,10,District,Other,357.0
+2001,Barcelona,1,Municipality,Other,4986.0
+2001,Ciutat Vella,1,District,Secondary,3041.0
+2001,Barcelona,1,Municipality,Main,594451.0
+2001,Nou Barris,8,District,Other,243.0
+2001,Sant Andreu,9,District,Main,52008.0
+2001,Gràcia,6,District,Secondary,6272.0
+2001,Horta-Guinardó,7,District,Secondary,4875.0
+2001,Ciutat Vella,1,District,Vacant,12438.0
+2001,Eixample,2,District,Other,693.0
+2001,Sant Andreu,9,District,Vacant,7944.0
+2001,Sants-Montjuïc,3,District,Vacant,10048.0
+2001,Les Corts,4,District,Main,30324.0
+2001,Les Corts,4,District,Vacant,3753.0
+2001,Sant Andreu,9,District,Secondary,2951.0
+2001,Horta-Guinardó,7,District,Other,507.0
+2001,Nou Barris,8,District,Secondary,2225.0
+2001,Eixample,2,District,Secondary,11984.0
+2001,Sant Martí,10,District,Vacant,12984.0
+2001,Sants-Montjuïc,3,District,Other,573.0
+2001,Sarrià-Sant Gervasi,5,District,Vacant,8207.0
+2001,Les Corts,4,District,Other,370.0
+2001,Horta-Guinardó,7,District,Main,64301.0
+2001,Barcelona,1,Municipality,Vacant,100771.0
+2001,Sant Martí,10,District,Secondary,5229.0
+2001,Gràcia,6,District,Accommodation,1.0
+2001,Nou Barris,8,District,Vacant,8484.0
+2001,Sarrià-Sant Gervasi,5,District,Secondary,10277.0
+2001,Sant Andreu,9,District,Other,132.0
+2001,Ciutat Vella,1,District,Other,1142.0
+2001,Sarrià-Sant Gervasi,5,District,Other,381.0
+2001,Sarrià-Sant Gervasi,5,District,Main,49896.0
+2001,Sants-Montjuïc,3,District,Main,66933.0
+2001,Eixample,2,District,Vacant,18314.0
+2001,Gràcia,6,District,Vacant,8377.0
+2011,Sarrià-Sant Gervasi,5,District,Main,57010.0
+2011,Ciutat Vella,1,District,Vacant,8645.0
+2011,Eixample,2,District,Main,117935.0
+2011,Sant Andreu,9,District,Vacant,6240.0
+2011,Barcelona,1,Municipality,Secondary,38770.0
+2011,Les Corts,4,District,Main,33215.0
+2011,Gràcia,6,District,Main,55015.0
+2011,Gràcia,6,District,Secondary,5735.0
+2011,Horta-Guinardó,7,District,Vacant,4760.0
+2011,Sants-Montjuïc,3,District,Secondary,3530.0
+2011,Les Corts,4,District,Vacant,6520.0
+2011,Eixample,2,District,Secondary,6880.0
+2011,Sant Andreu,9,District,Secondary,2130.0
+2011,Gràcia,6,District,Vacant,4755.0
+2011,Sarrià-Sant Gervasi,5,District,Vacant,12005.0
+2011,Sant Martí,10,District,Secondary,3655.0
+2011,Sant Andreu,9,District,Main,61685.0
+2011,Les Corts,4,District,Secondary,4510.0
+2011,Sant Martí,10,District,Vacant,10825.0
+2011,Barcelona,1,Municipality,Main,684080.0
+2011,Sant Martí,10,District,Main,97055.0
+2011,Horta-Guinardó,7,District,Secondary,2050.0
+2011,Nou Barris,8,District,Main,68285.0
+2011,Ciutat Vella,1,District,Main,44505.0
+2011,Sarrià-Sant Gervasi,5,District,Secondary,5715.0
+2011,Sants-Montjuïc,3,District,Vacant,9100.0
+2011,Nou Barris,8,District,Vacant,6815.0
+2011,Sants-Montjuïc,3,District,Main,77820.0
+2011,Horta-Guinardó,7,District,Main,71555.0
+2011,Ciutat Vella,1,District,Secondary,2515.0
+2011,Nou Barris,8,District,Secondary,2050.0
+2011,Eixample,2,District,Vacant,18585.0
+2011,Barcelona,1,Municipality,Vacant,88250.0
+2021,Horta-Guinardó,7,District,Main,71280.0
+2021,Sant Genís dels Agudells,39,Neighbourhood,Not main,459.0
+2021,el Poblenou,68,Neighbourhood,Not main,2925.0
+2021,Sarrià,23,Neighbourhood,Main,8805.0
+2021,la Verneda i la Pau,73,Neighbourhood,Main,11622.0
+2021,Vallbona,56,Neighbourhood,Main,483.0
+2021,el Clot,65,Neighbourhood,Main,10914.0
+2021,Vallcarca i els Penitents,28,Neighbourhood,Main,6747.0
+2021,la Vila Olímpica del Poblenou,67,Neighbourhood,Not main,774.0
+2021,la Salut,30,Neighbourhood,Main,5520.0
+2021,Horta,43,Neighbourhood,Main,10773.0
+2021,Sant Andreu,9,District,Not main,8067.0
+2021,Sant Andreu,60,Neighbourhood,Not main,3579.0
+2021,la Sagrera,61,Neighbourhood,Not main,1539.0
+2021,la Guineueta,48,Neighbourhood,Not main,744.0
+2021,la Sagrada Família,6,Neighbourhood,Main,22257.0
+2021,Sants - Badal,17,Neighbourhood,Not main,1371.0
+2021,el Besòs i el Maresme,70,Neighbourhood,Main,8700.0
+2021,Nou Barris,8,District,Not main,7392.0
+2021,Provençals del Poblenou,71,Neighbourhood,Not main,993.0
+2021,la Guineueta,48,Neighbourhood,Main,6234.0
+2021,Sant Martí de Provençals,72,Neighbourhood,Not main,1167.0
+2021,la Nova Esquerra de l'Eixample,9,Neighbourhood,Main,24918.0
+2021,el Raval,1,Neighbourhood,Not main,5610.0
+2021,Torre Baró,54,Neighbourhood,Not main,309.0
+2021,el Poble-sec,11,Neighbourhood,Not main,2595.0
+2021,Montbau,40,Neighbourhood,Main,2082.0
+2021,Gràcia,6,District,Not main,14706.0
+2021,les Corts,19,Neighbourhood,Main,19143.0
+2021,el Putxet i el Farró,27,Neighbourhood,Not main,3039.0
+2021,la Salut,30,Neighbourhood,Not main,1170.0
+2021,Verdun,51,Neighbourhood,Not main,513.0
+2021,la Dreta de l'Eixample,7,Neighbourhood,Main,18525.0
+2021,la Marina de Port,13,Neighbourhood,Not main,1272.0
+2021,el Carmel,37,Neighbourhood,Main,13401.0
+2021,la Trinitat Nova,53,Neighbourhood,Not main,783.0
+2021,el Turó de la Peira,46,Neighbourhood,Not main,579.0
+2021,el Bon Pastor,59,Neighbourhood,Main,4662.0
+2021,Hostafrancs,15,Neighbourhood,Main,6801.0
+2021,les Tres Torres,24,Neighbourhood,Main,5619.0
+2021,la Vila de Gràcia,31,Neighbourhood,Main,22665.0
+2021,Canyelles,49,Neighbourhood,Main,2775.0
+2021,Barcelona,1,Municipality,Not main,137601.0
+2021,la Verneda i la Pau,73,Neighbourhood,Not main,1524.0
+2021,Sant Martí de Provençals,72,Neighbourhood,Main,10731.0
+2021,el Parc i la Llacuna del Poblenou,66,Neighbourhood,Main,6534.0
+2021,Navas,63,Neighbourhood,Not main,867.0
+2021,"Sant Pere, Santa Caterina i la Ribera",4,Neighbourhood,Not main,4578.0
+2021,el Raval,1,Neighbourhood,Main,17841.0
+2021,la Maternitat i Sant Ramon,20,Neighbourhood,Not main,1881.0
+2021,la Vila Olímpica del Poblenou,67,Neighbourhood,Main,3552.0
+2021,Les Corts,4,District,Main,33258.0
+2021,el Coll,29,Neighbourhood,Main,3213.0
+2021,l'Antiga Esquerra de l'Eixample,8,Neighbourhood,Main,18303.0
+2021,Barcelona,1,Municipality,Main,671139.0
+2021,Ciutat Meridiana,55,Neighbourhood,Main,3852.0
+2021,Can Baró,34,Neighbourhood,Not main,519.0
+2021,Ciutat Meridiana,55,Neighbourhood,Not main,114.0
+2021,la Font d'en Fargues,36,Neighbourhood,Not main,585.0
+2021,Sant Martí,10,District,Main,96336.0
+2021,el Camp de l'Arpa del Clot,64,Neighbourhood,Main,16671.0
+2021,"Vallvidrera, el Tibidabo i les Planes",22,Neighbourhood,Not main,558.0
+2021,Sarrià-Sant Gervasi,5,District,Main,56874.0
+2021,"Vallvidrera, el Tibidabo i les Planes",22,Neighbourhood,Main,1611.0
+2021,la Vall d'Hebron,41,Neighbourhood,Main,2325.0
+2021,Gràcia,6,District,Main,53214.0
+2021,Hostafrancs,15,Neighbourhood,Not main,1374.0
+2021,el Clot,65,Neighbourhood,Not main,1794.0
+2021,Eixample,2,District,Not main,29304.0
+2021,el Turó de la Peira,46,Neighbourhood,Main,6507.0
+2021,la Clota,42,Neighbourhood,Not main,72.0
+2021,el Baix Guinardó,33,Neighbourhood,Not main,1416.0
+2021,Sants - Badal,17,Neighbourhood,Main,10338.0
+2021,el Parc i la Llacuna del Poblenou,66,Neighbourhood,Not main,996.0
+2021,Porta,45,Neighbourhood,Not main,1212.0
+2021,la Font de la Guatlla,14,Neighbourhood,Main,4320.0
+2021,la Font de la Guatlla,14,Neighbourhood,Not main,705.0
+2021,la Bordeta,16,Neighbourhood,Main,7992.0
+2021,Eixample,2,District,Main,113583.0
+2021,Sant Gervasi - Galvany,26,Neighbourhood,Not main,5919.0
+2021,Sant Gervasi - la Bonanova,25,Neighbourhood,Not main,2220.0
+2021,l'Antiga Esquerra de l'Eixample,8,Neighbourhood,Not main,5805.0
+2021,Vallcarca i els Penitents,28,Neighbourhood,Not main,1575.0
+2021,Vilapicina i la Torre Llobeta,44,Neighbourhood,Main,10767.0
+2021,Vallbona,56,Neighbourhood,Not main,153.0
+2021,les Corts,19,Neighbourhood,Not main,4650.0
+2021,el Camp d'en Grassot i Gràcia Nova,32,Neighbourhood,Not main,3159.0
+2021,el Baix Guinardó,33,Neighbourhood,Main,10980.0
+2021,Horta,43,Neighbourhood,Not main,1764.0
+2021,el Coll,29,Neighbourhood,Not main,570.0
+2021,el Camp de l'Arpa del Clot,64,Neighbourhood,Not main,2937.0
+2021,Sant Martí,10,District,Not main,16389.0
+2021,la Barceloneta,3,Neighbourhood,Main,6843.0
+2021,Sant Gervasi - Galvany,26,Neighbourhood,Main,18762.0
+2021,Pedralbes,21,Neighbourhood,Main,4263.0
+2021,Sarrià,23,Neighbourhood,Not main,2592.0
+2021,Vilapicina i la Torre Llobeta,44,Neighbourhood,Not main,1200.0
+2021,la Bordeta,16,Neighbourhood,Not main,1050.0
+2021,la Sagrera,61,Neighbourhood,Main,12195.0
+2021,la Trinitat Vella,57,Neighbourhood,Not main,276.0
+2021,la Marina del Prat Vermell,12,Neighbourhood,Main,543.0
+2021,el Bon Pastor,59,Neighbourhood,Not main,879.0
+2021,Sant Antoni,10,Neighbourhood,Main,16497.0
+2021,el Poblenou,68,Neighbourhood,Main,13830.0
+2021,el Guinardó,35,Neighbourhood,Not main,2118.0
+2021,el Fort Pienc,5,Neighbourhood,Not main,2190.0
+2021,el Poble-sec,11,Neighbourhood,Main,16335.0
+2021,el Congrés i els Indians,62,Neighbourhood,Not main,885.0
+2021,Baró de Viver,58,Neighbourhood,Main,1029.0
+2021,Sant Andreu,9,District,Main,60972.0
+2021,"Sant Pere, Santa Caterina i la Ribera",4,Neighbourhood,Main,9996.0
+2021,Verdun,51,Neighbourhood,Main,5340.0
+2021,el Carmel,37,Neighbourhood,Not main,1347.0
+2021,la Marina del Prat Vermell,12,Neighbourhood,Not main,306.0
+2021,Provençals del Poblenou,71,Neighbourhood,Main,8373.0
+2021,el Besòs i el Maresme,70,Neighbourhood,Not main,1422.0
+2021,la Clota,42,Neighbourhood,Main,279.0
+2021,Les Corts,4,District,Not main,7674.0
+2021,el Camp d'en Grassot i Gràcia Nova,32,Neighbourhood,Main,15069.0
+2021,la Dreta de l'Eixample,7,Neighbourhood,Not main,8244.0
+2021,el Barri Gòtic,2,Neighbourhood,Main,6513.0
+2021,Navas,63,Neighbourhood,Main,9255.0
+2021,Sants,18,Neighbourhood,Main,17358.0
+2021,Sants-Montjuïc,3,District,Main,75825.0
+2021,les Roquetes,50,Neighbourhood,Main,6309.0
+2021,les Roquetes,50,Neighbourhood,Not main,507.0
+2021,el Guinardó,35,Neighbourhood,Main,15813.0
+2021,el Fort Pienc,5,Neighbourhood,Main,13083.0
+2021,Diagonal Mar i el Front Marítim del Poblenou,69,Neighbourhood,Not main,1857.0
+2021,Diagonal Mar i el Front Marítim del Poblenou,69,Neighbourhood,Main,5409.0
+2021,Canyelles,49,Neighbourhood,Not main,156.0
+2021,la Trinitat Nova,53,Neighbourhood,Main,2994.0
+2021,el Putxet i el Farró,27,Neighbourhood,Main,12528.0
+2021,les Tres Torres,24,Neighbourhood,Not main,1281.0
+2021,la Nova Esquerra de l'Eixample,9,Neighbourhood,Not main,5019.0
+2021,la Vila de Gràcia,31,Neighbourhood,Not main,8232.0
+2021,Torre Baró,54,Neighbourhood,Main,972.0
+2021,la Font d'en Fargues,36,Neighbourhood,Main,3774.0
+2021,Pedralbes,21,Neighbourhood,Not main,1143.0
+2021,la Vall d'Hebron,41,Neighbourhood,Not main,636.0
+2021,Can Peguera,47,Neighbourhood,Not main,111.0
+2021,Ciutat Vella,1,District,Main,41193.0
+2021,la Teixonera,38,Neighbourhood,Main,4998.0
+2021,Sants-Montjuïc,3,District,Not main,12081.0
+2021,el Barri Gòtic,2,Neighbourhood,Not main,3855.0
+2021,la Prosperitat,52,Neighbourhood,Not main,1011.0
+2021,la Teixonera,38,Neighbourhood,Not main,711.0
+2021,el Congrés i els Indians,62,Neighbourhood,Main,6030.0
+2021,Sant Genís dels Agudells,39,Neighbourhood,Main,2952.0
+2021,la Sagrada Família,6,Neighbourhood,Not main,4566.0
+2021,Nou Barris,8,District,Main,68604.0
+2021,Can Peguera,47,Neighbourhood,Main,897.0
+2021,Can Baró,34,Neighbourhood,Main,3903.0
+2021,la Prosperitat,52,Neighbourhood,Main,11019.0
+2021,la Trinitat Vella,57,Neighbourhood,Main,3708.0
+2021,Sarrià-Sant Gervasi,5,District,Not main,15609.0
+2021,Sant Gervasi - la Bonanova,25,Neighbourhood,Main,9549.0
+2021,la Barceloneta,3,Neighbourhood,Not main,2430.0
+2021,la Maternitat i Sant Ramon,20,Neighbourhood,Main,9852.0
+2021,la Marina de Port,13,Neighbourhood,Main,12138.0
+2021,Ciutat Vella,1,District,Not main,16473.0
+2021,Sant Antoni,10,Neighbourhood,Not main,3480.0
+2021,Sants,18,Neighbourhood,Not main,3408.0
+2021,Porta,45,Neighbourhood,Main,10455.0
+2021,Sant Andreu,60,Neighbourhood,Main,24093.0
+2021,Montbau,40,Neighbourhood,Not main,279.0
+2021,Horta-Guinardó,7,District,Not main,9906.0
+2021,Baró de Viver,58,Neighbourhood,Not main,42.0

@@ -1,0 +1,355 @@
+year,territory,territory_order,territory_type,tenure_regime,num_main_homes
+1981,Barcelona,1,Municipi,Rent,268881.0
+1981,Barcelona,1,Municipi,Ownership,287153.0
+1981,Barcelona,1,Municipi,Other,23797.0
+1991,Barcelona,1,Municipi,Ownership,354477.0
+1991,Horta-Guinardó,7,Districte,Rent,17872.0
+1991,Ciutat Vella,1,Districte,Other,987.0
+1991,Nou Barris,8,Districte,Rent,14577.0
+1991,Sants-Montjuïc,3,Districte,Rent,23343.0
+1991,Sant Martí,10,Districte,Other,2497.0
+1991,Gràcia,6,Districte,Rent,21366.0
+1991,Sant Martí,10,Districte,Ownership,52226.0
+1991,Sant Martí,10,Districte,Rent,18280.0
+1991,Eixample,2,Districte,Ownership,54421.0
+1991,Nou Barris,8,Districte,Other,2138.0
+1991,Sant Andreu,9,Districte,Ownership,34060.0
+1991,Horta-Guinardó,7,Districte,Ownership,41746.0
+1991,Les Corts,4,Districte,Rent,8545.0
+1991,Les Corts,4,Districte,Ownership,20554.0
+1991,Barcelona,1,Municipi,Other,16981.0
+1991,Sarrià-Sant Gervasi,5,Districte,Rent,19266.0
+1991,Sants-Montjuïc,3,Districte,Ownership,40871.0
+1991,Eixample,2,Districte,Other,2986.0
+1991,Nou Barris,8,Districte,Ownership,45454.0
+1991,Sants-Montjuïc,3,Districte,Other,1496.0
+1991,Sant Andreu,9,Districte,Other,1530.0
+1991,Gràcia,6,Districte,Ownership,25319.0
+1991,Ciutat Vella,1,Districte,Rent,23350.0
+1991,Horta-Guinardó,7,Districte,Other,1250.0
+1991,Sarrià-Sant Gervasi,5,Districte,Other,2107.0
+1991,Les Corts,4,Districte,Other,922.0
+1991,Barcelona,1,Municipi,Rent,205182.0
+1991,Sant Andreu,9,Districte,Rent,12894.0
+1991,Eixample,2,Districte,Rent,45689.0
+1991,Gràcia,6,Districte,Other,1068.0
+1991,Sarrià-Sant Gervasi,5,Districte,Ownership,28056.0
+1991,Ciutat Vella,1,Districte,Ownership,11770.0
+2001,Sant Martí,10,Districte,Ownership,63006.0
+2001,Eixample,2,Districte,Ownership,62823.0
+2001,Sant Andreu,9,Districte,Other,1607.0
+2001,Ciutat Vella,1,Districte,Rent,21037.0
+2001,Nou Barris,8,Districte,Other,1975.0
+2001,Sants-Montjuïc,3,Districte,Ownership,47192.0
+2001,Horta-Guinardó,7,Districte,Other,2108.0
+2001,Ciutat Vella,1,Districte,Other,1062.0
+2001,Sarrià-Sant Gervasi,5,Districte,Rent,16834.0
+2001,Les Corts,4,Districte,Rent,6645.0
+2001,Sant Martí,10,Districte,Rent,15064.0
+2001,Gràcia,6,Districte,Other,1628.0
+2001,Sant Andreu,9,Districte,Rent,11254.0
+2001,Sant Martí,10,Districte,Other,2343.0
+2001,Barcelona,1,Municipi,Rent,169137.0
+2001,Les Corts,4,Districte,Ownership,22447.0
+2001,Barcelona,1,Municipi,Ownership,405090.0
+2001,Horta-Guinardó,7,Districte,Rent,14992.0
+2001,Barcelona,1,Municipi,Other,20224.0
+2001,Sant Andreu,9,Districte,Ownership,39147.0
+2001,Sants-Montjuïc,3,Districte,Other,1827.0
+2001,Gràcia,6,Districte,Rent,17723.0
+2001,Nou Barris,8,Districte,Rent,10496.0
+2001,Nou Barris,8,Districte,Ownership,49861.0
+2001,Sarrià-Sant Gervasi,5,Districte,Ownership,30428.0
+2001,Gràcia,6,Districte,Ownership,28762.0
+2001,Eixample,2,Districte,Rent,37178.0
+2001,Sarrià-Sant Gervasi,5,Districte,Other,2634.0
+2001,Ciutat Vella,1,Districte,Ownership,14223.0
+2001,Sants-Montjuïc,3,Districte,Rent,17914.0
+2001,Horta-Guinardó,7,Districte,Ownership,47201.0
+2001,Les Corts,4,Districte,Other,1232.0
+2001,Eixample,2,Districte,Other,3808.0
+2011,Sant Martí,10,Districte,Other,5300.0
+2011,Sant Martí,10,Districte,Ownership,70445.0
+2011,Sarrià-Sant Gervasi,5,Districte,Other,4935.0
+2011,Eixample,2,Districte,Other,7045.0
+2011,Les Corts,4,Districte,Other,2335.0
+2011,Nou Barris,8,Districte,Ownership,51070.0
+2011,Eixample,2,Districte,Rent,43670.0
+2011,Eixample,2,Districte,Ownership,67220.0
+2011,Ciutat Vella,1,Districte,Other,2085.0
+2011,Sant Andreu,9,Districte,Other,3475.0
+2011,Sants-Montjuïc,3,Districte,Rent,23060.0
+2011,Les Corts,4,Districte,Ownership,22640.0
+2011,Sants-Montjuïc,3,Districte,Ownership,50965.0
+2011,Les Corts,4,Districte,Rent,8240.0
+2011,Gràcia,6,Districte,Ownership,31060.0
+2011,Sant Martí,10,Districte,Rent,21310.0
+2011,Ciutat Vella,1,Districte,Rent,25205.0
+2011,Sarrià-Sant Gervasi,5,Districte,Ownership,32485.0
+2011,Sants-Montjuïc,3,Districte,Other,3790.0
+2011,Sant Andreu,9,Districte,Ownership,44080.0
+2011,Ciutat Vella,1,Districte,Ownership,17215.0
+2011,Nou Barris,8,Districte,Other,3850.0
+2011,Barcelona,1,Municipi,Rent,205915.0
+2011,Sarrià-Sant Gervasi,5,Districte,Rent,19590.0
+2011,Barcelona,1,Municipi,Ownership,437615.0
+2011,Nou Barris,8,Districte,Rent,13365.0
+2011,Barcelona,1,Municipi,Other,40540.0
+2011,Gràcia,6,Districte,Other,3505.0
+2011,Horta-Guinardó,7,Districte,Ownership,50435.0
+2011,Horta-Guinardó,7,Districte,Rent,16895.0
+2011,Horta-Guinardó,7,Districte,Other,4220.0
+2011,Gràcia,6,Districte,Rent,20445.0
+2011,Sant Andreu,9,Districte,Rent,14135.0
+2021,Ciutat Meridiana,55,Barri,Rent,1068.0
+2021,Horta-Guinardó,7,Districte,Other,5316.0
+2021,Barcelona,1,Municipi,Rent,208401.0
+2021,el Coll,29,Barri,Ownership,1950.0
+2021,Sant Gervasi - Galvany,26,Barri,Rent,6333.0
+2021,el Guinardó,35,Barri,Other,1230.0
+2021,les Corts,19,Barri,Ownership,12405.0
+2021,Sants - Badal,17,Barri,Other,738.0
+2021,Ciutat Vella,1,Districte,Other,4368.0
+2021,Barcelona,1,Municipi,Other,53055.0
+2021,la Prosperitat,52,Barri,Ownership,7596.0
+2021,Provençals del Poblenou,71,Barri,Other,630.0
+2021,el Fort Pienc,5,Barri,Ownership,7809.0
+2021,la Salut,30,Barri,Other,402.0
+2021,el Raval,1,Barri,Other,1899.0
+2021,Les Corts,4,Districte,Ownership,21702.0
+2021,l'Antiga Esquerra de l'Eixample,8,Barri,Other,1668.0
+2021,Canyelles,49,Barri,Ownership,2301.0
+2021,Nou Barris,8,Districte,Other,4956.0
+2021,Sants,18,Barri,Other,1338.0
+2021,Sant Martí de Provençals,72,Barri,Rent,2067.0
+2021,les Tres Torres,24,Barri,Ownership,3531.0
+2021,el Baix Guinardó,33,Barri,Ownership,6942.0
+2021,Sant Gervasi - la Bonanova,25,Barri,Rent,3378.0
+2021,Vallbona,56,Barri,Other,33.0
+2021,la Clota,42,Barri,Rent,72.0
+2021,la Teixonera,38,Barri,Other,351.0
+2021,la Marina del Prat Vermell,12,Barri,Rent,144.0
+2021,Horta-Guinardó,7,Districte,Rent,20127.0
+2021,la Salut,30,Barri,Ownership,3483.0
+2021,la Barceloneta,3,Barri,Rent,3177.0
+2021,la Clota,42,Barri,Other,96.0
+2021,el Putxet i el Farró,27,Barri,Other,1032.0
+2021,Les Corts,4,Districte,Rent,9024.0
+2021,el Fort Pienc,5,Barri,Rent,4287.0
+2021,Hostafrancs,15,Barri,Ownership,3894.0
+2021,el Fort Pienc,5,Barri,Other,993.0
+2021,Torre Baró,54,Barri,Ownership,516.0
+2021,el Poblenou,68,Barri,Ownership,8862.0
+2021,Horta,43,Barri,Ownership,7188.0
+2021,les Corts,19,Barri,Rent,5271.0
+2021,Can Baró,34,Barri,Rent,1086.0
+2021,Sant Martí de Provençals,72,Barri,Ownership,7914.0
+2021,Canyelles,49,Barri,Rent,321.0
+2021,Ciutat Meridiana,55,Barri,Ownership,2454.0
+2021,Navas,63,Barri,Other,651.0
+2021,Eixample,2,Districte,Other,9600.0
+2021,el Poble-sec,11,Barri,Other,1452.0
+2021,Hostafrancs,15,Barri,Other,567.0
+2021,Horta,43,Barri,Other,753.0
+2021,Vallbona,56,Barri,Ownership,333.0
+2021,Vilapicina i la Torre Llobeta,44,Barri,Ownership,7251.0
+2021,la Vila Olímpica del Poblenou,67,Barri,Rent,945.0
+2021,la Verneda i la Pau,73,Barri,Other,747.0
+2021,Sant Andreu,9,Districte,Ownership,41094.0
+2021,la Guineueta,48,Barri,Ownership,4497.0
+2021,la Verneda i la Pau,73,Barri,Ownership,8754.0
+2021,Baró de Viver,58,Barri,Other,96.0
+2021,Navas,63,Barri,Ownership,6141.0
+2021,Gràcia,6,Districte,Ownership,30264.0
+2021,"Vallvidrera, el Tibidabo i les Planes",22,Barri,Other,102.0
+2021,la Dreta de l'Eixample,7,Barri,Ownership,9348.0
+2021,la Guineueta,48,Barri,Other,501.0
+2021,la Vila de Gràcia,31,Barri,Rent,9153.0
+2021,la Vila de Gràcia,31,Barri,Ownership,11436.0
+2021,les Tres Torres,24,Barri,Other,504.0
+2021,Diagonal Mar i el Front Marítim del Poblenou,69,Barri,Other,348.0
+2021,les Tres Torres,24,Barri,Rent,1569.0
+2021,el Bon Pastor,59,Barri,Other,324.0
+2021,Sants-Montjuïc,3,Districte,Other,5787.0
+2021,la Vila Olímpica del Poblenou,67,Barri,Other,234.0
+2021,el Poblenou,68,Barri,Rent,4011.0
+2021,la Prosperitat,52,Barri,Rent,2718.0
+2021,l'Antiga Esquerra de l'Eixample,8,Barri,Rent,7185.0
+2021,"Vallvidrera, el Tibidabo i les Planes",22,Barri,Rent,366.0
+2021,Sant Andreu,60,Barri,Rent,5577.0
+2021,el Poble-sec,11,Barri,Ownership,8931.0
+2021,el Parc i la Llacuna del Poblenou,66,Barri,Rent,1836.0
+2021,la Vall d'Hebron,41,Barri,Rent,492.0
+2021,Sant Genís dels Agudells,39,Barri,Rent,1107.0
+2021,Nou Barris,8,Districte,Rent,18114.0
+2021,Pedralbes,21,Barri,Ownership,2724.0
+2021,la Teixonera,38,Barri,Ownership,3234.0
+2021,la Font d'en Fargues,36,Barri,Rent,726.0
+2021,la Maternitat i Sant Ramon,20,Barri,Other,705.0
+2021,Sarrià,23,Barri,Rent,2892.0
+2021,la Nova Esquerra de l'Eixample,9,Barri,Ownership,14907.0
+2021,Porta,45,Barri,Rent,2847.0
+2021,Sant Andreu,60,Barri,Other,1539.0
+2021,la Font de la Guatlla,14,Barri,Ownership,2766.0
+2021,el Camp de l'Arpa del Clot,64,Barri,Other,1188.0
+2021,el Camp d'en Grassot i Gràcia Nova,32,Barri,Rent,4572.0
+2021,Pedralbes,21,Barri,Other,381.0
+2021,Sarrià-Sant Gervasi,5,Districte,Ownership,32769.0
+2021,el Congrés i els Indians,62,Barri,Ownership,4032.0
+2021,el Turó de la Peira,46,Barri,Ownership,3873.0
+2021,el Turó de la Peira,46,Barri,Rent,2130.0
+2021,la Bordeta,16,Barri,Ownership,5574.0
+2021,la Barceloneta,3,Barri,Ownership,3003.0
+2021,Barcelona,1,Municipi,Ownership,409587.0
+2021,Sant Gervasi - Galvany,26,Barri,Other,1749.0
+2021,Diagonal Mar i el Front Marítim del Poblenou,69,Barri,Rent,1374.0
+2021,el Baix Guinardó,33,Barri,Rent,3219.0
+2021,la Dreta de l'Eixample,7,Barri,Other,1782.0
+2021,la Marina de Port,13,Barri,Other,822.0
+2021,el Carmel,37,Barri,Rent,3783.0
+2021,el Camp de l'Arpa del Clot,64,Barri,Ownership,10305.0
+2021,el Putxet i el Farró,27,Barri,Ownership,6930.0
+2021,Les Corts,4,Districte,Other,2535.0
+2021,el Clot,65,Barri,Rent,2844.0
+2021,Sant Genís dels Agudells,39,Barri,Ownership,1584.0
+2021,Torre Baró,54,Barri,Rent,378.0
+2021,la Sagrada Família,6,Barri,Rent,7392.0
+2021,el Guinardó,35,Barri,Rent,4869.0
+2021,l'Antiga Esquerra de l'Eixample,8,Barri,Ownership,9456.0
+2021,la Sagrera,61,Barri,Rent,3546.0
+2021,la Font de la Guatlla,14,Barri,Other,297.0
+2021,la Salut,30,Barri,Rent,1632.0
+2021,Sant Antoni,10,Barri,Other,1458.0
+2021,la Barceloneta,3,Barri,Other,663.0
+2021,Sant Andreu,60,Barri,Ownership,16986.0
+2021,el Camp d'en Grassot i Gràcia Nova,32,Barri,Ownership,9333.0
+2021,Sant Antoni,10,Barri,Ownership,9264.0
+2021,el Besòs i el Maresme,70,Barri,Other,699.0
+2021,la Marina del Prat Vermell,12,Barri,Ownership,348.0
+2021,Pedralbes,21,Barri,Rent,1164.0
+2021,Canyelles,49,Barri,Other,150.0
+2021,Porta,45,Barri,Ownership,6858.0
+2021,Ciutat Meridiana,55,Barri,Other,321.0
+2021,el Parc i la Llacuna del Poblenou,66,Barri,Ownership,4158.0
+2021,el Barri Gòtic,2,Barri,Rent,3261.0
+2021,el Raval,1,Barri,Rent,8883.0
+2021,el Clot,65,Barri,Ownership,7338.0
+2021,la Vall d'Hebron,41,Barri,Ownership,1671.0
+2021,el Bon Pastor,59,Barri,Rent,1176.0
+2021,Sants-Montjuïc,3,Districte,Rent,23007.0
+2021,la Bordeta,16,Barri,Other,525.0
+2021,Vallcarca i els Penitents,28,Barri,Ownership,4062.0
+2021,la Maternitat i Sant Ramon,20,Barri,Ownership,6573.0
+2021,la Sagrera,61,Barri,Ownership,7761.0
+2021,la Guineueta,48,Barri,Rent,1242.0
+2021,Sarrià,23,Barri,Other,774.0
+2021,Vallbona,56,Barri,Rent,120.0
+2021,Diagonal Mar i el Front Marítim del Poblenou,69,Barri,Ownership,3684.0
+2021,"Vallvidrera, el Tibidabo i les Planes",22,Barri,Ownership,1131.0
+2021,la Vila Olímpica del Poblenou,67,Barri,Ownership,2376.0
+2021,el Camp de l'Arpa del Clot,64,Barri,Rent,5175.0
+2021,Can Baró,34,Barri,Ownership,2550.0
+2021,el Bon Pastor,59,Barri,Ownership,3156.0
+2021,Sant Antoni,10,Barri,Rent,5769.0
+2021,el Putxet i el Farró,27,Barri,Rent,4563.0
+2021,"Sant Pere, Santa Caterina i la Ribera",4,Barri,Other,1068.0
+2021,Can Baró,34,Barri,Other,276.0
+2021,"Sant Pere, Santa Caterina i la Ribera",4,Barri,Rent,4896.0
+2021,Sant Andreu,9,Districte,Other,4248.0
+2021,el Turó de la Peira,46,Barri,Other,495.0
+2021,la Trinitat Nova,53,Barri,Rent,759.0
+2021,Sarrià,23,Barri,Ownership,5145.0
+2021,la Trinitat Nova,53,Barri,Ownership,1971.0
+2021,la Sagrera,61,Barri,Other,891.0
+2021,Vallcarca i els Penitents,28,Barri,Other,537.0
+2021,les Corts,19,Barri,Other,1449.0
+2021,Sants-Montjuïc,3,Districte,Ownership,46995.0
+2021,el Carmel,37,Barri,Ownership,8628.0
+2021,la Teixonera,38,Barri,Rent,1404.0
+2021,les Roquetes,50,Barri,Rent,1740.0
+2021,el Poblenou,68,Barri,Other,951.0
+2021,la Clota,42,Barri,Ownership,111.0
+2021,Horta-Guinardó,7,Districte,Ownership,45852.0
+2021,la Trinitat Vella,57,Barri,Rent,1086.0
+2021,Verdun,51,Barri,Ownership,3411.0
+2021,Baró de Viver,58,Barri,Rent,273.0
+2021,Gràcia,6,Districte,Other,4434.0
+2021,Verdun,51,Barri,Other,390.0
+2021,Montbau,40,Barri,Rent,528.0
+2021,Can Peguera,47,Barri,Rent,474.0
+2021,Sarrià-Sant Gervasi,5,Districte,Other,4992.0
+2021,la Marina de Port,13,Barri,Ownership,8613.0
+2021,la Vall d'Hebron,41,Barri,Other,162.0
+2021,el Clot,65,Barri,Other,750.0
+2021,el Guinardó,35,Barri,Ownership,9720.0
+2021,Sants,18,Barri,Rent,5730.0
+2021,la Vila de Gràcia,31,Barri,Other,2061.0
+2021,Montbau,40,Barri,Other,156.0
+2021,Sants - Badal,17,Barri,Ownership,6585.0
+2021,Eixample,2,Districte,Rent,40074.0
+2021,el Congrés i els Indians,62,Barri,Other,480.0
+2021,el Barri Gòtic,2,Barri,Ownership,2523.0
+2021,la Sagrada Família,6,Barri,Ownership,13122.0
+2021,les Roquetes,50,Barri,Other,450.0
+2021,les Roquetes,50,Barri,Ownership,4113.0
+2021,la Verneda i la Pau,73,Barri,Rent,2109.0
+2021,Montbau,40,Barri,Ownership,1401.0
+2021,Sant Genís dels Agudells,39,Barri,Other,264.0
+2021,la Nova Esquerra de l'Eixample,9,Barri,Rent,8046.0
+2021,Eixample,2,Districte,Ownership,63906.0
+2021,la Dreta de l'Eixample,7,Barri,Rent,7395.0
+2021,Torre Baró,54,Barri,Other,75.0
+2021,la Sagrada Família,6,Barri,Other,1731.0
+2021,Sants,18,Barri,Ownership,10284.0
+2021,Hostafrancs,15,Barri,Rent,2337.0
+2021,Sarrià-Sant Gervasi,5,Districte,Rent,19101.0
+2021,Navas,63,Barri,Rent,2460.0
+2021,el Besòs i el Maresme,70,Barri,Rent,2313.0
+2021,Provençals del Poblenou,71,Barri,Rent,1917.0
+2021,la Font d'en Fargues,36,Barri,Other,219.0
+2021,el Congrés i els Indians,62,Barri,Rent,1509.0
+2021,Vallcarca i els Penitents,28,Barri,Rent,2163.0
+2021,Can Peguera,47,Barri,Ownership,330.0
+2021,Ciutat Vella,1,Districte,Rent,20217.0
+2021,Sant Martí,10,Districte,Rent,24591.0
+2021,el Parc i la Llacuna del Poblenou,66,Barri,Other,537.0
+2021,Sant Martí,10,Districte,Other,6819.0
+2021,Sant Martí,10,Districte,Ownership,64890.0
+2021,el Raval,1,Barri,Ownership,7056.0
+2021,el Coll,29,Barri,Rent,999.0
+2021,la Prosperitat,52,Barri,Other,708.0
+2021,Vilapicina i la Torre Llobeta,44,Barri,Other,741.0
+2021,el Coll,29,Barri,Other,261.0
+2021,Sant Gervasi - Galvany,26,Barri,Ownership,10689.0
+2021,Sants - Badal,17,Barri,Rent,3015.0
+2021,Gràcia,6,Districte,Rent,18519.0
+2021,la Trinitat Vella,57,Barri,Other,267.0
+2021,"Sant Pere, Santa Caterina i la Ribera",4,Barri,Ownership,4029.0
+2021,el Camp d'en Grassot i Gràcia Nova,32,Barri,Other,1173.0
+2021,la Font d'en Fargues,36,Barri,Ownership,2823.0
+2021,Horta,43,Barri,Rent,2841.0
+2021,Nou Barris,8,Districte,Ownership,45504.0
+2021,la Marina de Port,13,Barri,Rent,2703.0
+2021,el Carmel,37,Barri,Other,984.0
+2021,la Marina del Prat Vermell,12,Barri,Other,48.0
+2021,la Bordeta,16,Barri,Rent,1893.0
+2021,Vilapicina i la Torre Llobeta,44,Barri,Rent,2766.0
+2021,el Baix Guinardó,33,Barri,Other,825.0
+2021,Provençals del Poblenou,71,Barri,Ownership,5820.0
+2021,Porta,45,Barri,Other,738.0
+2021,Sant Martí de Provençals,72,Barri,Other,735.0
+2021,la Font de la Guatlla,14,Barri,Rent,1260.0
+2021,la Maternitat i Sant Ramon,20,Barri,Rent,2589.0
+2021,el Besòs i el Maresme,70,Barri,Ownership,5679.0
+2021,Sant Andreu,9,Districte,Rent,15627.0
+2021,la Trinitat Vella,57,Barri,Ownership,2352.0
+2021,Sant Gervasi - la Bonanova,25,Barri,Ownership,5343.0
+2021,Sant Gervasi - la Bonanova,25,Barri,Other,831.0
+2021,la Trinitat Nova,53,Barri,Other,261.0
+2021,Can Peguera,47,Barri,Other,93.0
+2021,el Poble-sec,11,Barri,Rent,5925.0
+2021,Verdun,51,Barri,Rent,1551.0
+2021,Ciutat Vella,1,Districte,Ownership,16611.0
+2021,la Nova Esquerra de l'Eixample,9,Barri,Other,1968.0
+2021,el Barri Gòtic,2,Barri,Other,738.0
+2021,Baró de Viver,58,Barri,Ownership,666.0

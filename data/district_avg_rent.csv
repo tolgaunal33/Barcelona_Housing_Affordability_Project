@@ -1,0 +1,251 @@
+year,territory,avg_rent_eur
+2000,Ciutat Vella,324.44
+2001,Ciutat Vella,350.32
+2002,Ciutat Vella,412.12
+2003,Ciutat Vella,442.36
+2004,Ciutat Vella,471.22
+2005,Ciutat Vella,538.77
+2006,Ciutat Vella,596.96
+2007,Ciutat Vella,661.21
+2008,Ciutat Vella,729.56
+2009,Ciutat Vella,716.27
+2010,Ciutat Vella,679.76
+2011,Ciutat Vella,662.84
+2012,Ciutat Vella,644.05
+2013,Ciutat Vella,618.73
+2014,Ciutat Vella,639.0
+2015,Ciutat Vella,675.37
+2016,Ciutat Vella,738.91
+2017,Ciutat Vella,828.58
+2018,Ciutat Vella,914.03
+2019,Ciutat Vella,945.91
+2020,Ciutat Vella,912.31
+2021,Ciutat Vella,846.81
+2022,Ciutat Vella,1007.64
+2023,Ciutat Vella,1081.91
+2024,Ciutat Vella,1058.13
+2000,Eixample,437.34
+2001,Eixample,511.99
+2002,Eixample,563.93
+2003,Eixample,594.27
+2004,Eixample,634.91
+2005,Eixample,702.73
+2006,Eixample,749.95
+2007,Eixample,830.18
+2008,Eixample,891.74
+2009,Eixample,864.76
+2010,Eixample,833.38
+2011,Eixample,821.68
+2012,Eixample,800.34
+2013,Eixample,763.55
+2014,Eixample,776.49
+2015,Eixample,830.25
+2016,Eixample,915.35
+2017,Eixample,989.28
+2018,Eixample,1038.21
+2019,Eixample,1092.7
+2020,Eixample,1075.51
+2021,Eixample,1008.19
+2022,Eixample,1141.2
+2023,Eixample,1276.39
+2024,Eixample,1282.18
+2000,Gràcia,371.79
+2001,Gràcia,423.43
+2002,Gràcia,495.28
+2003,Gràcia,505.77
+2004,Gràcia,548.44
+2005,Gràcia,620.64
+2006,Gràcia,668.72
+2007,Gràcia,741.98
+2008,Gràcia,791.99
+2009,Gràcia,763.54
+2010,Gràcia,739.18
+2011,Gràcia,736.91
+2012,Gràcia,706.96
+2013,Gràcia,659.12
+2014,Gràcia,673.91
+2015,Gràcia,721.05
+2016,Gràcia,786.93
+2017,Gràcia,856.48
+2018,Gràcia,904.5
+2019,Gràcia,957.45
+2020,Gràcia,952.36
+2021,Gràcia,896.47
+2022,Gràcia,999.82
+2023,Gràcia,1120.49
+2024,Gràcia,1148.05
+2000,Horta-Guinardó,334.58
+2001,Horta-Guinardó,387.4
+2002,Horta-Guinardó,421.01
+2003,Horta-Guinardó,462.41
+2004,Horta-Guinardó,500.82
+2005,Horta-Guinardó,552.0
+2006,Horta-Guinardó,630.16
+2007,Horta-Guinardó,660.33
+2008,Horta-Guinardó,718.34
+2009,Horta-Guinardó,691.78
+2010,Horta-Guinardó,652.78
+2011,Horta-Guinardó,636.82
+2012,Horta-Guinardó,606.03
+2013,Horta-Guinardó,566.34
+2014,Horta-Guinardó,563.74
+2015,Horta-Guinardó,586.17
+2016,Horta-Guinardó,639.58
+2017,Horta-Guinardó,706.08
+2018,Horta-Guinardó,746.45
+2019,Horta-Guinardó,794.94
+2020,Horta-Guinardó,800.68
+2021,Horta-Guinardó,768.9
+2022,Horta-Guinardó,819.45
+2023,Horta-Guinardó,917.73
+2024,Horta-Guinardó,922.16
+2000,Les Corts,569.59
+2001,Les Corts,626.59
+2002,Les Corts,619.74
+2003,Les Corts,666.98
+2004,Les Corts,700.43
+2005,Les Corts,744.71
+2006,Les Corts,826.48
+2007,Les Corts,954.52
+2008,Les Corts,986.35
+2009,Les Corts,933.13
+2010,Les Corts,907.76
+2011,Les Corts,890.3
+2012,Les Corts,867.14
+2013,Les Corts,826.68
+2014,Les Corts,851.54
+2015,Les Corts,920.65
+2016,Les Corts,981.6
+2017,Les Corts,1050.16
+2018,Les Corts,1087.34
+2019,Les Corts,1156.01
+2020,Les Corts,1113.42
+2021,Les Corts,1053.09
+2022,Les Corts,1183.17
+2023,Les Corts,1299.36
+2024,Les Corts,1344.0
+2000,Nou Barris,332.1
+2001,Nou Barris,368.53
+2002,Nou Barris,426.66
+2003,Nou Barris,437.34
+2004,Nou Barris,472.48
+2005,Nou Barris,513.41
+2006,Nou Barris,582.59
+2007,Nou Barris,633.18
+2008,Nou Barris,676.49
+2009,Nou Barris,654.53
+2010,Nou Barris,621.86
+2011,Nou Barris,609.45
+2012,Nou Barris,551.83
+2013,Nou Barris,513.77
+2014,Nou Barris,499.33
+2015,Nou Barris,518.37
+2016,Nou Barris,560.97
+2017,Nou Barris,624.84
+2018,Nou Barris,674.36
+2019,Nou Barris,704.44
+2020,Nou Barris,705.82
+2021,Nou Barris,684.59
+2022,Nou Barris,729.59
+2023,Nou Barris,798.6
+2024,Nou Barris,793.84
+2000,Sant Andreu,339.12
+2001,Sant Andreu,384.39
+2002,Sant Andreu,431.77
+2003,Sant Andreu,461.65
+2004,Sant Andreu,508.11
+2005,Sant Andreu,567.77
+2006,Sant Andreu,604.16
+2007,Sant Andreu,677.78
+2008,Sant Andreu,723.59
+2009,Sant Andreu,707.94
+2010,Sant Andreu,673.03
+2011,Sant Andreu,658.45
+2012,Sant Andreu,626.79
+2013,Sant Andreu,578.85
+2014,Sant Andreu,575.08
+2015,Sant Andreu,611.03
+2016,Sant Andreu,645.23
+2017,Sant Andreu,704.68
+2018,Sant Andreu,762.29
+2019,Sant Andreu,796.28
+2020,Sant Andreu,800.16
+2021,Sant Andreu,764.21
+2022,Sant Andreu,828.6
+2023,Sant Andreu,912.98
+2024,Sant Andreu,918.73
+2000,Sant Martí,341.64
+2001,Sant Martí,394.49
+2002,Sant Martí,470.37
+2003,Sant Martí,483.28
+2004,Sant Martí,531.19
+2005,Sant Martí,604.2
+2006,Sant Martí,681.06
+2007,Sant Martí,730.25
+2008,Sant Martí,770.25
+2009,Sant Martí,739.83
+2010,Sant Martí,727.97
+2011,Sant Martí,705.41
+2012,Sant Martí,674.58
+2013,Sant Martí,637.45
+2014,Sant Martí,640.67
+2015,Sant Martí,699.55
+2016,Sant Martí,770.51
+2017,Sant Martí,841.96
+2018,Sant Martí,884.64
+2019,Sant Martí,941.79
+2020,Sant Martí,929.03
+2021,Sant Martí,889.1
+2022,Sant Martí,997.46
+2023,Sant Martí,1102.55
+2024,Sant Martí,1096.83
+2000,Sants-Montjuïc,337.14
+2001,Sants-Montjuïc,379.98
+2002,Sants-Montjuïc,436.96
+2003,Sants-Montjuïc,453.14
+2004,Sants-Montjuïc,498.41
+2005,Sants-Montjuïc,558.2
+2006,Sants-Montjuïc,620.77
+2007,Sants-Montjuïc,669.37
+2008,Sants-Montjuïc,725.99
+2009,Sants-Montjuïc,699.78
+2010,Sants-Montjuïc,672.04
+2011,Sants-Montjuïc,671.51
+2012,Sants-Montjuïc,633.4
+2013,Sants-Montjuïc,596.35
+2014,Sants-Montjuïc,598.06
+2015,Sants-Montjuïc,623.64
+2016,Sants-Montjuïc,677.33
+2017,Sants-Montjuïc,761.57
+2018,Sants-Montjuïc,803.79
+2019,Sants-Montjuïc,841.85
+2020,Sants-Montjuïc,847.64
+2021,Sants-Montjuïc,799.68
+2022,Sants-Montjuïc,914.65
+2023,Sants-Montjuïc,1033.65
+2024,Sants-Montjuïc,979.35
+2000,Sarrià-Sant Gervasi,632.59
+2001,Sarrià-Sant Gervasi,658.86
+2002,Sarrià-Sant Gervasi,742.05
+2003,Sarrià-Sant Gervasi,761.09
+2004,Sarrià-Sant Gervasi,824.47
+2005,Sarrià-Sant Gervasi,863.9
+2006,Sarrià-Sant Gervasi,917.86
+2007,Sarrià-Sant Gervasi,1014.54
+2008,Sarrià-Sant Gervasi,1080.73
+2009,Sarrià-Sant Gervasi,1033.29
+2010,Sarrià-Sant Gervasi,998.25
+2011,Sarrià-Sant Gervasi,1016.87
+2012,Sarrià-Sant Gervasi,985.55
+2013,Sarrià-Sant Gervasi,935.35
+2014,Sarrià-Sant Gervasi,977.68
+2015,Sarrià-Sant Gervasi,1048.9
+2016,Sarrià-Sant Gervasi,1142.78
+2017,Sarrià-Sant Gervasi,1227.93
+2018,Sarrià-Sant Gervasi,1267.94
+2019,Sarrià-Sant Gervasi,1315.25
+2020,Sarrià-Sant Gervasi,1304.0
+2021,Sarrià-Sant Gervasi,1246.29
+2022,Sarrià-Sant Gervasi,1385.09
+2023,Sarrià-Sant Gervasi,1555.75
+2024,Sarrià-Sant Gervasi,1613.19
