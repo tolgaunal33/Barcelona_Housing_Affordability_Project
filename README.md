@@ -1,5 +1,7 @@
 # 🏠 Barcelona Housing Affordability & Short-Term Rentals Impact Analysis
 
+📊 **[View the Presentation Slides](https://docs.google.com/presentation/d/1IJ0028X29eiWIJ326kMdp_tu_LFPb9kWO5651I_9cRg/edit?usp=sharing)**  
+
 ## 🌆 Why This Project Matters
 Barcelona’s cobblestone streets and Gaudí architecture draw millions of visitors each year — but for locals, the city’s beauty hides a growing crisis.  
 
