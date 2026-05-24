@@ -136,5 +136,5 @@ Data rights belong to their respective owners.
 ---
 
 ## 👩‍💻 Author
-Tolga UNAL – Data Analyst | Urban Data Enthusiast | Aspiring Policy Data Scientist
+Tolga UNAL – Data Analyst | Urban Data Enthusiast
 
