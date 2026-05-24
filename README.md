@@ -88,19 +88,13 @@ The Power BI dashboard includes:
 
 barcelona-housing-affordability/
 
-│
-
-├── data/ # Raw & cleaned datasets (where permitted)
-
-├── sql/ # MySQL scripts for data integration & views
-
-├── notebooks/ # Python notebooks for EDA & analysis
-
-├── visuals/ # Charts, maps, and dashboard screenshots
-
-├── dashboard/ # Power BI .pbix file
-
-└── README.md # Project documentation
+├── data/           # Raw & cleaned datasets
+├── sql_queries/    # MySQL scripts for data integration & views
+├── notebooks/      # Python notebooks for EDA & analysis
+├── visuals/        # Charts and dashboard screenshots
+├── README.md
+├── barcelona_dashboard_created.pbix
+└── barcelona-housing-affordability-ppt.pdf
 
 ---
 
@@ -108,7 +102,7 @@ barcelona-housing-affordability/
 
 1. **Clone the repository**
 
-   git clone https://github.com/yourusername/barcelona-housing-affordability.git
+   git clone https://github.com/tolgaunal33/Barcelona_Housing_Affordability_Project.git
    
    cd barcelona-housing-affordability
    
