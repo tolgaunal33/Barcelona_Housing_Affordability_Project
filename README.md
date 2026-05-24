@@ -102,7 +102,7 @@ barcelona-housing-affordability/
 
 1. **Clone the repository**
 
-   git clone https://github.com/tolgaunal33/Barcelona_Housing_Affordability_Project.git
+   git clone https://github.com/tolgaunal33/Barcelona_STR_Impact_Analysis.git
    
    cd barcelona-housing-affordability
    
