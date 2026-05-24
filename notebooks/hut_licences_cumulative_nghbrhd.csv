@@ -1,0 +1,428 @@
+year,neighbourhood_name,num_hut_licenses,cumulative_licenses
+2009,,1,1.0
+2010,,1,2.0
+2019,,1,3.0
+2022,,1,4.0
+2012,Can Baró,2,2.0
+2013,Can Baró,2,4.0
+2014,Can Baró,16,20.0
+2024,Can Baró,5,25.0
+2014,Canyelles,1,1.0
+2024,Canyelles,1,2.0
+2008,Diagonal Mar i el Front Marítim del Poblenou,8,8.0
+2009,Diagonal Mar i el Front Marítim del Poblenou,7,15.0
+2010,Diagonal Mar i el Front Marítim del Poblenou,18,33.0
+2011,Diagonal Mar i el Front Marítim del Poblenou,3,36.0
+2012,Diagonal Mar i el Front Marítim del Poblenou,39,75.0
+2013,Diagonal Mar i el Front Marítim del Poblenou,22,97.0
+2014,Diagonal Mar i el Front Marítim del Poblenou,28,125.0
+2019,Diagonal Mar i el Front Marítim del Poblenou,1,126.0
+2024,Diagonal Mar i el Front Marítim del Poblenou,3,129.0
+2008,el Baix Guinardó,10,10.0
+2009,el Baix Guinardó,15,25.0
+2011,el Baix Guinardó,1,26.0
+2012,el Baix Guinardó,10,36.0
+2013,el Baix Guinardó,18,54.0
+2014,el Baix Guinardó,17,71.0
+2016,el Baix Guinardó,2,73.0
+2019,el Baix Guinardó,1,74.0
+2020,el Baix Guinardó,1,75.0
+2023,el Baix Guinardó,8,83.0
+2024,el Baix Guinardó,4,87.0
+2025,el Baix Guinardó,1,88.0
+2011,el Barri Gòtic,6,6.0
+2012,el Barri Gòtic,40,46.0
+2013,el Barri Gòtic,98,144.0
+2014,el Barri Gòtic,15,159.0
+2016,el Barri Gòtic,1,160.0
+2017,el Barri Gòtic,18,178.0
+2018,el Barri Gòtic,15,193.0
+2019,el Barri Gòtic,5,198.0
+2022,el Barri Gòtic,2,200.0
+2023,el Barri Gòtic,2,202.0
+2024,el Barri Gòtic,16,218.0
+2025,el Barri Gòtic,7,225.0
+2013,el Besòs i el Maresme,5,5.0
+2014,el Besòs i el Maresme,27,32.0
+2014,el Bon Pastor,1,1.0
+2022,el Bon Pastor,1,2.0
+2008,el Camp d'en Grassot i Gràcia Nova,20,20.0
+2009,el Camp d'en Grassot i Gràcia Nova,9,29.0
+2010,el Camp d'en Grassot i Gràcia Nova,17,46.0
+2011,el Camp d'en Grassot i Gràcia Nova,8,54.0
+2012,el Camp d'en Grassot i Gràcia Nova,68,122.0
+2013,el Camp d'en Grassot i Gràcia Nova,50,172.0
+2014,el Camp d'en Grassot i Gràcia Nova,46,218.0
+2016,el Camp d'en Grassot i Gràcia Nova,1,219.0
+2023,el Camp d'en Grassot i Gràcia Nova,4,223.0
+2024,el Camp d'en Grassot i Gràcia Nova,2,225.0
+2008,el Camp de l'Arpa del Clot,36,36.0
+2009,el Camp de l'Arpa del Clot,19,55.0
+2010,el Camp de l'Arpa del Clot,19,74.0
+2011,el Camp de l'Arpa del Clot,11,85.0
+2012,el Camp de l'Arpa del Clot,58,143.0
+2013,el Camp de l'Arpa del Clot,45,188.0
+2014,el Camp de l'Arpa del Clot,76,264.0
+2016,el Camp de l'Arpa del Clot,14,278.0
+2019,el Camp de l'Arpa del Clot,1,279.0
+2022,el Camp de l'Arpa del Clot,2,281.0
+2023,el Camp de l'Arpa del Clot,13,294.0
+2024,el Camp de l'Arpa del Clot,1,295.0
+2025,el Camp de l'Arpa del Clot,1,296.0
+2012,el Carmel,16,16.0
+2013,el Carmel,2,18.0
+2014,el Carmel,14,32.0
+2024,el Carmel,2,34.0
+2025,el Carmel,1,35.0
+2010,el Clot,3,3.0
+2011,el Clot,1,4.0
+2012,el Clot,11,15.0
+2013,el Clot,12,27.0
+2014,el Clot,18,45.0
+2022,el Clot,3,48.0
+2023,el Clot,4,52.0
+2012,el Coll,3,3.0
+2013,el Coll,3,6.0
+2014,el Coll,14,20.0
+2012,el Congrés i els Indians,2,2.0
+2013,el Congrés i els Indians,1,3.0
+2014,el Congrés i els Indians,3,6.0
+2008,el Fort Pienc,17,17.0
+2009,el Fort Pienc,13,30.0
+2010,el Fort Pienc,22,52.0
+2011,el Fort Pienc,9,61.0
+2012,el Fort Pienc,68,129.0
+2013,el Fort Pienc,93,222.0
+2014,el Fort Pienc,102,324.0
+2016,el Fort Pienc,1,325.0
+2017,el Fort Pienc,1,326.0
+2020,el Fort Pienc,14,340.0
+2023,el Fort Pienc,5,345.0
+2024,el Fort Pienc,29,374.0
+2025,el Fort Pienc,2,376.0
+2008,el Guinardó,4,4.0
+2009,el Guinardó,1,5.0
+2011,el Guinardó,2,7.0
+2012,el Guinardó,17,24.0
+2013,el Guinardó,9,33.0
+2014,el Guinardó,36,69.0
+2023,el Guinardó,4,73.0
+2008,el Parc i la Llacuna del Poblenou,2,2.0
+2009,el Parc i la Llacuna del Poblenou,2,4.0
+2010,el Parc i la Llacuna del Poblenou,2,6.0
+2011,el Parc i la Llacuna del Poblenou,1,7.0
+2012,el Parc i la Llacuna del Poblenou,12,19.0
+2013,el Parc i la Llacuna del Poblenou,34,53.0
+2014,el Parc i la Llacuna del Poblenou,45,98.0
+2019,el Parc i la Llacuna del Poblenou,2,100.0
+2021,el Parc i la Llacuna del Poblenou,1,101.0
+2022,el Parc i la Llacuna del Poblenou,1,102.0
+2008,el Poble Sec,9,9.0
+2009,el Poble Sec,15,24.0
+2010,el Poble Sec,19,43.0
+2011,el Poble Sec,56,99.0
+2012,el Poble Sec,83,182.0
+2013,el Poble Sec,126,308.0
+2014,el Poble Sec,176,484.0
+2023,el Poble Sec,32,516.0
+2024,el Poble Sec,22,538.0
+2008,el Poblenou,5,5.0
+2009,el Poblenou,10,15.0
+2010,el Poblenou,38,53.0
+2011,el Poblenou,29,82.0
+2012,el Poblenou,46,128.0
+2013,el Poblenou,106,234.0
+2014,el Poblenou,148,382.0
+2016,el Poblenou,34,416.0
+2019,el Poblenou,10,426.0
+2020,el Poblenou,1,427.0
+2023,el Poblenou,25,452.0
+2024,el Poblenou,2,454.0
+2008,el Putxet i el Farró,6,6.0
+2010,el Putxet i el Farró,4,10.0
+2011,el Putxet i el Farró,18,28.0
+2012,el Putxet i el Farró,51,79.0
+2013,el Putxet i el Farró,46,125.0
+2014,el Putxet i el Farró,29,154.0
+2019,el Putxet i el Farró,1,155.0
+2020,el Putxet i el Farró,2,157.0
+2023,el Putxet i el Farró,44,201.0
+2024,el Putxet i el Farró,1,202.0
+2009,el Raval,1,1.0
+2011,el Raval,13,14.0
+2012,el Raval,27,41.0
+2013,el Raval,81,122.0
+2014,el Raval,27,149.0
+2016,el Raval,2,151.0
+2017,el Raval,6,157.0
+2018,el Raval,10,167.0
+2019,el Raval,22,189.0
+2022,el Raval,10,199.0
+2023,el Raval,14,213.0
+2024,el Raval,27,240.0
+2025,el Raval,7,247.0
+2023,el Turó de la Peira,1,1.0
+2010,Horta,2,2.0
+2013,Horta,1,3.0
+2014,Horta,3,6.0
+2009,Hostafrancs,18,18.0
+2010,Hostafrancs,26,44.0
+2012,Hostafrancs,28,72.0
+2013,Hostafrancs,48,120.0
+2014,Hostafrancs,52,172.0
+2016,Hostafrancs,2,174.0
+2023,Hostafrancs,2,176.0
+2008,l'Antiga Esquerra de l'Eixample,43,43.0
+2009,l'Antiga Esquerra de l'Eixample,39,82.0
+2010,l'Antiga Esquerra de l'Eixample,28,110.0
+2011,l'Antiga Esquerra de l'Eixample,17,127.0
+2012,l'Antiga Esquerra de l'Eixample,177,304.0
+2013,l'Antiga Esquerra de l'Eixample,134,438.0
+2014,l'Antiga Esquerra de l'Eixample,232,670.0
+2016,l'Antiga Esquerra de l'Eixample,20,690.0
+2022,l'Antiga Esquerra de l'Eixample,1,691.0
+2023,l'Antiga Esquerra de l'Eixample,12,703.0
+2024,l'Antiga Esquerra de l'Eixample,17,720.0
+2025,l'Antiga Esquerra de l'Eixample,4,724.0
+2011,la Barceloneta,4,4.0
+2012,la Barceloneta,3,7.0
+2013,la Barceloneta,43,50.0
+2014,la Barceloneta,4,54.0
+2016,la Barceloneta,4,58.0
+2020,la Barceloneta,5,63.0
+2021,la Barceloneta,2,65.0
+2022,la Barceloneta,33,98.0
+2024,la Barceloneta,20,118.0
+2010,la Bordeta,7,7.0
+2011,la Bordeta,1,8.0
+2012,la Bordeta,4,12.0
+2013,la Bordeta,6,18.0
+2014,la Bordeta,18,36.0
+2008,la Dreta de l'Eixample,82,82.0
+2009,la Dreta de l'Eixample,128,210.0
+2010,la Dreta de l'Eixample,111,321.0
+2011,la Dreta de l'Eixample,75,396.0
+2012,la Dreta de l'Eixample,344,740.0
+2013,la Dreta de l'Eixample,400,1140.0
+2014,la Dreta de l'Eixample,489,1629.0
+2016,la Dreta de l'Eixample,49,1678.0
+2019,la Dreta de l'Eixample,1,1679.0
+2020,la Dreta de l'Eixample,2,1681.0
+2022,la Dreta de l'Eixample,2,1683.0
+2023,la Dreta de l'Eixample,23,1706.0
+2024,la Dreta de l'Eixample,38,1744.0
+2025,la Dreta de l'Eixample,22,1766.0
+2010,la Font d'en Fargues,1,1.0
+2014,la Font d'en Fargues,3,4.0
+2009,la Font de la Guatlla,1,1.0
+2010,la Font de la Guatlla,2,3.0
+2011,la Font de la Guatlla,4,7.0
+2012,la Font de la Guatlla,10,17.0
+2013,la Font de la Guatlla,18,35.0
+2014,la Font de la Guatlla,38,73.0
+2023,la Font de la Guatlla,58,131.0
+2024,la Font de la Guatlla,1,132.0
+2013,la Guineueta,1,1.0
+2012,la Marina de Port,2,2.0
+2013,la Marina de Port,2,4.0
+2014,la Marina de Port,2,6.0
+2013,la Marina del Prat Vermell,1,1.0
+2014,la Marina del Prat Vermell,2,3.0
+2012,la Maternitat i Sant Ramon,11,11.0
+2013,la Maternitat i Sant Ramon,7,18.0
+2014,la Maternitat i Sant Ramon,26,44.0
+2023,la Maternitat i Sant Ramon,4,48.0
+2008,la Nova Esquerra de l'Eixample,8,8.0
+2009,la Nova Esquerra de l'Eixample,22,30.0
+2010,la Nova Esquerra de l'Eixample,21,51.0
+2011,la Nova Esquerra de l'Eixample,19,70.0
+2012,la Nova Esquerra de l'Eixample,69,139.0
+2013,la Nova Esquerra de l'Eixample,152,291.0
+2014,la Nova Esquerra de l'Eixample,110,401.0
+2016,la Nova Esquerra de l'Eixample,12,413.0
+2017,la Nova Esquerra de l'Eixample,1,414.0
+2020,la Nova Esquerra de l'Eixample,3,417.0
+2022,la Nova Esquerra de l'Eixample,35,452.0
+2023,la Nova Esquerra de l'Eixample,40,492.0
+2024,la Nova Esquerra de l'Eixample,19,511.0
+2025,la Nova Esquerra de l'Eixample,1,512.0
+2012,la Prosperitat,2,2.0
+2014,la Prosperitat,1,3.0
+2008,la Sagrada Família,27,27.0
+2009,la Sagrada Família,43,70.0
+2010,la Sagrada Família,55,125.0
+2011,la Sagrada Família,22,147.0
+2012,la Sagrada Família,181,328.0
+2013,la Sagrada Família,189,517.0
+2014,la Sagrada Família,230,747.0
+2016,la Sagrada Família,38,785.0
+2020,la Sagrada Família,1,786.0
+2023,la Sagrada Família,3,789.0
+2024,la Sagrada Família,32,821.0
+2025,la Sagrada Família,1,822.0
+2012,la Sagrera,11,11.0
+2013,la Sagrera,8,19.0
+2014,la Sagrera,3,22.0
+2024,la Sagrera,1,23.0
+2012,la Salut,11,11.0
+2013,la Salut,5,16.0
+2014,la Salut,20,36.0
+2023,la Salut,1,37.0
+2012,la Teixonera,1,1.0
+2013,la Teixonera,1,2.0
+2014,la Teixonera,3,5.0
+2011,la Trinitat Vella,1,1.0
+2014,la Trinitat Vella,3,4.0
+2023,la Trinitat Vella,1,5.0
+2014,la Vall d'Hebron,1,1.0
+2013,la Verneda i la Pau,2,2.0
+2014,la Verneda i la Pau,7,9.0
+2008,la Vila de Gràcia,41,41.0
+2009,la Vila de Gràcia,23,64.0
+2010,la Vila de Gràcia,68,132.0
+2011,la Vila de Gràcia,20,152.0
+2012,la Vila de Gràcia,138,290.0
+2013,la Vila de Gràcia,221,511.0
+2014,la Vila de Gràcia,222,733.0
+2016,la Vila de Gràcia,2,735.0
+2019,la Vila de Gràcia,3,738.0
+2020,la Vila de Gràcia,1,739.0
+2023,la Vila de Gràcia,33,772.0
+2024,la Vila de Gràcia,28,800.0
+2025,la Vila de Gràcia,3,803.0
+2008,la Vila Olímpica del Poblenou,9,9.0
+2009,la Vila Olímpica del Poblenou,9,18.0
+2010,la Vila Olímpica del Poblenou,3,21.0
+2011,la Vila Olímpica del Poblenou,1,22.0
+2012,la Vila Olímpica del Poblenou,30,52.0
+2013,la Vila Olímpica del Poblenou,34,86.0
+2014,la Vila Olímpica del Poblenou,18,104.0
+2019,la Vila Olímpica del Poblenou,1,105.0
+2023,la Vila Olímpica del Poblenou,1,106.0
+2010,les Corts,53,53.0
+2011,les Corts,16,69.0
+2012,les Corts,16,85.0
+2013,les Corts,36,121.0
+2014,les Corts,64,185.0
+2015,les Corts,1,186.0
+2023,les Corts,10,196.0
+2024,les Corts,6,202.0
+2014,les Roquetes,2,2.0
+2011,les Tres Torres,4,4.0
+2012,les Tres Torres,6,10.0
+2013,les Tres Torres,6,16.0
+2014,les Tres Torres,18,34.0
+2023,les Tres Torres,1,35.0
+2024,les Tres Torres,1,36.0
+2011,Navas,5,5.0
+2013,Navas,2,7.0
+2014,Navas,8,15.0
+2016,Navas,1,16.0
+2023,Navas,6,22.0
+2024,Navas,3,25.0
+2009,Pedralbes,1,1.0
+2012,Pedralbes,3,4.0
+2013,Pedralbes,2,6.0
+2014,Pedralbes,5,11.0
+2012,Porta,1,1.0
+2014,Porta,1,2.0
+2019,Porta,8,10.0
+2023,Porta,2,12.0
+2008,Provençals del Poblenou,4,4.0
+2009,Provençals del Poblenou,1,5.0
+2010,Provençals del Poblenou,2,7.0
+2011,Provençals del Poblenou,1,8.0
+2012,Provençals del Poblenou,4,12.0
+2013,Provençals del Poblenou,8,20.0
+2014,Provençals del Poblenou,9,29.0
+2016,Provençals del Poblenou,1,30.0
+2022,Provençals del Poblenou,1,31.0
+2023,Provençals del Poblenou,2,33.0
+2024,Provençals del Poblenou,2,35.0
+2011,Sant Andreu,1,1.0
+2012,Sant Andreu,8,9.0
+2013,Sant Andreu,7,16.0
+2014,Sant Andreu,10,26.0
+2023,Sant Andreu,5,31.0
+2024,Sant Andreu,1,32.0
+2008,Sant Antoni,6,6.0
+2009,Sant Antoni,17,23.0
+2010,Sant Antoni,32,55.0
+2011,Sant Antoni,78,133.0
+2012,Sant Antoni,109,242.0
+2013,Sant Antoni,162,404.0
+2014,Sant Antoni,146,550.0
+2016,Sant Antoni,7,557.0
+2023,Sant Antoni,15,572.0
+2024,Sant Antoni,41,613.0
+2025,Sant Antoni,26,639.0
+2014,Sant Genís dels Agudells,3,3.0
+2018,Sant Genís dels Agudells,1,4.0
+2008,Sant Gervasi - Galvany,24,24.0
+2009,Sant Gervasi - Galvany,3,27.0
+2010,Sant Gervasi - Galvany,5,32.0
+2011,Sant Gervasi - Galvany,5,37.0
+2012,Sant Gervasi - Galvany,105,142.0
+2013,Sant Gervasi - Galvany,60,202.0
+2014,Sant Gervasi - Galvany,37,239.0
+2016,Sant Gervasi - Galvany,14,253.0
+2019,Sant Gervasi - Galvany,2,255.0
+2023,Sant Gervasi - Galvany,38,293.0
+2024,Sant Gervasi - Galvany,5,298.0
+2025,Sant Gervasi - Galvany,1,299.0
+2008,Sant Gervasi - la Bonanova,1,1.0
+2012,Sant Gervasi - la Bonanova,7,8.0
+2013,Sant Gervasi - la Bonanova,11,19.0
+2014,Sant Gervasi - la Bonanova,13,32.0
+2022,Sant Gervasi - la Bonanova,1,33.0
+2023,Sant Gervasi - la Bonanova,31,64.0
+2024,Sant Gervasi - la Bonanova,8,72.0
+2010,Sant Martí de Provençals,1,1.0
+2012,Sant Martí de Provençals,1,2.0
+2013,Sant Martí de Provençals,1,3.0
+2014,Sant Martí de Provençals,11,14.0
+2011,"Sant Pere, Santa Caterina i la Ribera",4,4.0
+2012,"Sant Pere, Santa Caterina i la Ribera",15,19.0
+2013,"Sant Pere, Santa Caterina i la Ribera",108,127.0
+2014,"Sant Pere, Santa Caterina i la Ribera",19,146.0
+2015,"Sant Pere, Santa Caterina i la Ribera",1,147.0
+2017,"Sant Pere, Santa Caterina i la Ribera",6,153.0
+2018,"Sant Pere, Santa Caterina i la Ribera",9,162.0
+2022,"Sant Pere, Santa Caterina i la Ribera",8,170.0
+2023,"Sant Pere, Santa Caterina i la Ribera",15,185.0
+2024,"Sant Pere, Santa Caterina i la Ribera",15,200.0
+2025,"Sant Pere, Santa Caterina i la Ribera",10,210.0
+2008,Sants,17,17.0
+2009,Sants,42,59.0
+2010,Sants,4,63.0
+2012,Sants,29,92.0
+2013,Sants,35,127.0
+2014,Sants,108,235.0
+2016,Sants,3,238.0
+2023,Sants,2,240.0
+2024,Sants,5,245.0
+2008,Sants - Badal,1,1.0
+2009,Sants - Badal,1,2.0
+2012,Sants - Badal,6,8.0
+2013,Sants - Badal,64,72.0
+2014,Sants - Badal,27,99.0
+2024,Sants - Badal,2,101.0
+2008,Sarrià,3,3.0
+2012,Sarrià,2,5.0
+2013,Sarrià,1,6.0
+2014,Sarrià,20,26.0
+2020,Sarrià,4,30.0
+2023,Sarrià,1,31.0
+2024,Sarrià,2,33.0
+2008,Vallcarca i els Penitents,4,4.0
+2010,Vallcarca i els Penitents,2,6.0
+2012,Vallcarca i els Penitents,2,8.0
+2013,Vallcarca i els Penitents,11,19.0
+2014,Vallcarca i els Penitents,20,39.0
+2013,"Vallvidrera, el Tibidabo i les Planes",1,1.0
+2014,"Vallvidrera, el Tibidabo i les Planes",2,3.0
+2012,Verdun,1,1.0
+2014,Verdun,2,3.0
+2012,Vilapicina i la Torre Llobeta,4,4.0
+2014,Vilapicina i la Torre Llobeta,5,9.0
+2023,Vilapicina i la Torre Llobeta,8,17.0
