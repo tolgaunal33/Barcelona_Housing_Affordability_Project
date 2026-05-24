@@ -73,7 +73,6 @@ It was developed as a **final portfolio project** for a Data Analytics Bootcamp,
 ---
 
 ## 📌 Dashboard Preview
-*(Add screenshot here once available — example below)*  
 
 ![Dashboard Preview](visuals/dashboard_preview.png)  
 
